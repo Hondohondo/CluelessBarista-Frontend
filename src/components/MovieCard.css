@@ -1,0 +1,12 @@
+.movie-card {
+    background: orange;
+    padding: 5px 15px;
+    width: 200px;
+    text-align: center;
+    border: 3px solid black;
+
+    .movie-img {
+        width: 120px;
+        /*height: 200px;*/
+    }
+}

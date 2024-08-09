@@ -1,0 +1,9 @@
+.movies-section {
+    padding: 0 30px;
+
+    .movies-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+}
